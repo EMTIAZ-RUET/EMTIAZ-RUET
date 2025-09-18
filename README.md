@@ -55,6 +55,7 @@ With 3+ years of experience, I specialize in **building, fine-tuning and deployi
 - LinkedIn: https://www.linkedin.com/in/emtiazuddinahmed/  
 - Email: emtiaz4546@gmail.com  
 - GitHub: https://github.com/EMTIAZ-RUET
+- Portfolio: https://emtiaz-ruet.github.io/portfolio-website/
 
 ---
 
