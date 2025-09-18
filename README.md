@@ -1,18 +1,14 @@
 # 👋 Hi, I'm Emtiaz Uddin Ahmed
 
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=EMTIAZ-RUET&theme=tokyonight)](https://github.com/EMTIAZ-RUET)
+![Profile Views](https://komarev.com/ghpvc/?username=EMTIAZ-RUET&color=blueviolet&style=flat)
+![Followers](https://img.shields.io/github/followers/EMTIAZ-RUET?label=Followers&style=flat-square&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/EMTIAZ-RUET?style=flat-square&color=yellow)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=EMTIAZ-RUET&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/EMTIAZ-RUET)
+## 📊 GitHub Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=EMTIAZ-RUET&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/EMTIAZ-RUET?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/EMTIAZ-RUET?style=social)
-
-## 📊 GitHub Stats
-
-![Emtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMTIAZ-RUET&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMTIAZ-RUET&layout=compact&theme=tokyonight)](https://github.com/EMTIAZ-RUET)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EMTIAZ-RUET&theme=tokyo-night&hide_border=true" />
+</div>
 
 ---
 
